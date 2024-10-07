@@ -31,6 +31,5 @@ festival information.
 <img src = "https://github.com/user-attachments/assets/e6d888c9-c007-441b-b022-253cf744dd92" width="200">
 <img src = "https://github.com/user-attachments/assets/c39f0b1d-4eb7-432f-af45-15515336cd65" width="200">
 <img src = "https://github.com/user-attachments/assets/02877415-b427-40b3-a796-c8711f60c58c" width="200">
-<img src = "https://github.com/user-attachments/assets/0d63fef2-c902-4465-987d-3cbf6b1dfe2a" width="200">
 <img src = "https://github.com/user-attachments/assets/ba78e0a8-9b6f-4789-937d-7dedbd4198e4" width="200">
 
