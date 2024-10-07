@@ -34,11 +34,3 @@ festival information.
 <img src = "https://github.com/user-attachments/assets/0d63fef2-c902-4465-987d-3cbf6b1dfe2a" width="200">
 <img src = "https://github.com/user-attachments/assets/ba78e0a8-9b6f-4789-937d-7dedbd4198e4" width="200">
 
-
-![IMG-20241007-WA0030]()
-![IMG-20241007-WA0029]()
-![IMG-20241007-WA0034]()
-![IMG-20241007-WA0033]()
-![IMG-20241007-WA0032]()
-![IMG-20241007-WA0031]()
-
