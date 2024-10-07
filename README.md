@@ -26,13 +26,19 @@ festival information.
 # OUTPUT :
 
 
-<img src = "https://github.com/user-attachments/assets/ca4e63c6-bad8-4b5d-8163-5fe0fbb56370" width="200">
-<img src = "https://github.com/user-attachments/assets/25c228e2-6bf9-40be-ac59-f1434f582b05" width="200">
-<img src = "https://github.com/user-attachments/assets/fb2f7863-f371-4743-9cc9-b41f7528cfa1" width="200">
-<img src = "https://github.com/user-attachments/assets/7c7c7ebf-8d79-4d8a-9682-ac9a326f3253" width="200">
-<img src = "https://github.com/user-attachments/assets/d92e0a69-0fae-4962-98b9-74db43695cb4" width="200">
+<img src = "https://github.com/user-attachments/assets/f60159da-a11d-4539-85d2-5de906024dbb" width="200">
+<img src = "https://github.com/user-attachments/assets/e1874b76-0b8b-47c0-b33a-75ffe54dbdfb" width="200">
+<img src = "https://github.com/user-attachments/assets/e6d888c9-c007-441b-b022-253cf744dd92" width="200">
+<img src = "https://github.com/user-attachments/assets/c39f0b1d-4eb7-432f-af45-15515336cd65" width="200">
+<img src = "https://github.com/user-attachments/assets/02877415-b427-40b3-a796-c8711f60c58c" width="200">
 <img src = "https://github.com/user-attachments/assets/0d63fef2-c902-4465-987d-3cbf6b1dfe2a" width="200">
-<img src = "https://github.com/user-attachments/assets/607955f4-147a-4d13-a438-c9305cd7fd53" width="200">
+<img src = "https://github.com/user-attachments/assets/ba78e0a8-9b6f-4789-937d-7dedbd4198e4" width="200">
 
 
+![IMG-20241007-WA0030]()
+![IMG-20241007-WA0029]()
+![IMG-20241007-WA0034]()
+![IMG-20241007-WA0033]()
+![IMG-20241007-WA0032]()
+![IMG-20241007-WA0031]()
 
